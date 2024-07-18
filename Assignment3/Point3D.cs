@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SymbAss1
+namespace SymbAss3
 {
     class Point3D : IFormattable
     {
